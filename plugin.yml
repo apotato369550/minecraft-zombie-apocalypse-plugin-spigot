@@ -1,0 +1,12 @@
+name: ZombieApocalypse
+version: 1.0
+author: Zimmer550
+main: com.zimmer.zombieapocalypse.ZombieApocalypse
+api-version: 1.14
+commands:
+  apocalypse:
+    description: Access the commands to start/stop/reset the apocalypse
+    usage: /<command> <subcommand>
+  spawn:
+    description: Spawn a zombie of your choice.
+    usage: /<command> <zombie_name>
